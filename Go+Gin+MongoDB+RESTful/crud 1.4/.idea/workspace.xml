@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a4a2189-35ca-4c4c-9ea4-be98fa77417d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../learn_mongo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../learn_mongo/.idea/learn_mongo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../learn_mongo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../learn_mongo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../learn_mongo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../learn_mongo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vaptcha_char/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vaptcha_char/src/core/ErrorCode/ErrorCode.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vaptcha_char/src/core/db/mongo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vaptcha_char/src/core/enums/code/code.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vaptcha_char/src/core/util/filehelper.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vaptcha_char/src/core/util/logger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vaptcha_char/src/server/vaptcha/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vaptcha_char/src/vaptcha/http/controller/common.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vaptcha_char/src/vaptcha/http/controller/return.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vaptcha_char/src/vaptcha/http/controller/track.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vaptcha_char/src/vaptcha/http/models/ReturnCode/ReturnCode.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vaptcha_char/src/vaptcha/http/models/reqmodel/track.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vaptcha_char/src/vaptcha/logic/track.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vaptcha_char/src/vaptcha/route/routes.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vapthcha_ip/config/Config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vapthcha_ip/controllers/IndexController.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vapthcha_ip/controllers/TrackController.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vapthcha_ip/models/TrackModel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vapthcha_ip/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud 1.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crud 1.3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud 1.5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crud 1.5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learn_redis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../learn_redis/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="132" column="33" lean-forward="true" selection-start-line="132" selection-start-column="33" selection-end-line="132" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/../../github.com/gorm/model_struct.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="222" />
+    <option name="y" value="56" />
+    <option name="width" value="1567" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="crud 1.4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud 1.4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../crud 1.3" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="crud 1.4" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="Go+Gin+MongoDB+RESTful/crud 1.4" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="222" y="56" width="1567" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1393497" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.08023256" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../github.com/gorm/model_struct.go" />
+    <entry file="file://$PROJECT_DIR$/../../github.com/gorm/main.go" />
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="132" column="33" lean-forward="true" selection-start-line="132" selection-start-column="33" selection-end-line="132" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
