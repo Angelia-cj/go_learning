@@ -1,0 +1,18 @@
+#FROM -> 母镜像
+#MAINTAINER -> 维护者信息
+#WORKDIR -> 工作目录
+#ADD -> 将文件复制到镜像中
+#RUN -> 执行操作（就跟在终端执行语句一样）
+#EXPOSE -> 暴露端口
+#ENTRYPOINT -> 程序入口
+
+
+FROM    golang:latest
+MAINTAINER  Angelia "2817068860@qq.com"
+
+WORKDIR  $GOPATH/src/go-changjia/learn_docker
+ADD    . $GOPATH/src/go-changjia/learn_docker
+RUN     go build .
+
+EXPOSE  8080
+ENTRYPOINT  ["./go-changjia/learn_docker"]
